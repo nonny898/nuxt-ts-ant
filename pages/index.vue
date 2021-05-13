@@ -9,12 +9,12 @@
         collapsible
       >
         <div class="empty"></div>
-        <div class="logo">INSURE</div>
+        <div class="logo">ISN</div>
         <div class="side-bar__links">
-          <div class="side-bar__link">Transmittal</div>
-          <div class="side-bar__link">Verification</div>
-          <div class="side-bar__link">Data Out</div>
-          <div class="side-bar__link">Admin Panel</div>
+          <div class="side-bar__link">T</div>
+          <div class="side-bar__link">V</div>
+          <div class="side-bar__link">Out</div>
+          <div class="side-bar__link">Admin</div>
         </div>
       </a-layout-sider>
       <a-layout style="overflow-x: visible">
@@ -26,10 +26,8 @@
               @click="onCollapse"
             ></div>
             <div class="left-header">
-              <div class="company">PTTEP</div>
-              <div class="project-name">
-                Information Submission & Readiness (INSURE)
-              </div>
+              <div class="company">SOME</div>
+              <div class="project-name">Info Sub N</div>
             </div>
             <div class="right-header">
               <div class="header-home">Home</div>
